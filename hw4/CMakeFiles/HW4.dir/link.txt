@@ -1,0 +1,2 @@
+/bin/ar qc libHW4.a CMakeFiles/HW4.dir/Event.cc.o CMakeFiles/HW4.dir/Holiday.cc.o CMakeFiles/HW4.dir/Priority_Event.cc.o CMakeFiles/HW4.dir/Workday.cc.o
+/bin/ranlib libHW4.a

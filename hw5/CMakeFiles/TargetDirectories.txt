@@ -1,0 +1,4 @@
+/s/bach/l/under/wymark/CT_301/hw5/CMakeFiles/edit_cache.dir
+/s/bach/l/under/wymark/CT_301/hw5/CMakeFiles/HW5.dir
+/s/bach/l/under/wymark/CT_301/hw5/CMakeFiles/rebuild_cache.dir
+/s/bach/l/under/wymark/CT_301/hw5/CMakeFiles/submission.dir

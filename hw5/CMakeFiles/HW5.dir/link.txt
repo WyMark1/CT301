@@ -1,0 +1,2 @@
+/bin/ar qc libHW5.a CMakeFiles/HW5.dir/game_of_life.cc.o
+/bin/ranlib libHW5.a

@@ -1,0 +1,2 @@
+/bin/ar qc libHW3.a CMakeFiles/HW3.dir/game_of_life.cc.o
+/bin/ranlib libHW3.a
